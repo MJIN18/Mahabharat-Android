@@ -1,0 +1,390 @@
+fileFormatVersion: 2
+guid: 4919f38cd27191c40a67e99f563f7e12
+ModelImporter:
+  serializedVersion: 22200
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Beardmat
+    second: {fileID: 2100000, guid: 0addf9cc3de9d7342becd24d0082312f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bodymat
+    second: {fileID: 2100000, guid: 9b191766a2d291a4389efbd94ff3c4ba, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bottommat
+    second: {fileID: 2100000, guid: b67e7aa46b421164d9a31209cac6c7b5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CROWN
+    second: {fileID: 2100000, guid: 6f8f2a7f2bcbd474e85825060fc387c0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Glovemat
+    second: {fileID: 2100000, guid: c45e5183aeebd3540bb5b91813552cb1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Hairmat
+    second: {fileID: 2100000, guid: 159ea7923bb5d2549b731de227eb9990, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Moustachemat
+    second: {fileID: 2100000, guid: f5d8de97c8d8682408275dbb5e21a865, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Shoesmat
+    second: {fileID: 2100000, guid: ea3814b9a69dac848bf2bb451fddc7b2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Topmat
+    second: {fileID: 2100000, guid: 3037ccb0f686dda4ea86a15381265924, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: armoured_warrior_fuse_Beard_Diffuse
+    second: {fileID: 2800000, guid: b45b44f1402ad1847a5a307a95260ff2, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: armoured_warrior_fuse_Beard_Gloss
+    second: {fileID: 2800000, guid: 3299b15fde011f74bbdf8ea4ddfac8f1, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: armoured_warrior_fuse_Beard_Normal
+    second: {fileID: 2800000, guid: f6dc2b847970e1f40bf2b853e61d7cb1, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: armoured_warrior_fuse_Beard_Opacity
+    second: {fileID: 2800000, guid: 454af3cba67f49342aa7ac686dd93315, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: armoured_warrior_fuse_Beard_Specular
+    second: {fileID: 2800000, guid: 0010d6840f3835c4983a1ae4114f3613, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: armoured_warrior_fuse_Body_Diffuse
+    second: {fileID: 2800000, guid: 9a831ed3fcd2aa942b4f622997729d1c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: armoured_warrior_fuse_Body_Gloss
+    second: {fileID: 2800000, guid: 31a492ea8850bff4a99b9989446d98b3, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: armoured_warrior_fuse_Body_Normal
+    second: {fileID: 2800000, guid: 415bf88497bd3404e80c30954520657f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: armoured_warrior_fuse_Body_Opacity
+    second: {fileID: 2800000, guid: 18023a27de248354ca2d10d41850fb48, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: armoured_warrior_fuse_Body_Specular
+    second: {fileID: 2800000, guid: 4e2103545fc03e4438d463ba5fb36bad, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: armoured_warrior_fuse_Bottom_Diffuse
+    second: {fileID: 2800000, guid: ffe63a474b382b84ea72f9921b2abcfa, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: armoured_warrior_fuse_Bottom_Gloss
+    second: {fileID: 2800000, guid: 79a7694402f67de4b88a28bf16304fc8, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: armoured_warrior_fuse_Bottom_Normal
+    second: {fileID: 2800000, guid: ee3778492c430a045b2aad71ffd71e22, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: armoured_warrior_fuse_Bottom_Specular
+    second: {fileID: 2800000, guid: 6d299c6865d8f3c43b0cd5504e0353a0, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: armoured_warrior_fuse_Glove_Diffuse
+    second: {fileID: 2800000, guid: 9cabbfcb023d22340924d92879db1a43, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: armoured_warrior_fuse_Glove_Gloss
+    second: {fileID: 2800000, guid: 199870e271027ff448f87f5cd43c3109, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: armoured_warrior_fuse_Glove_Normal
+    second: {fileID: 2800000, guid: 913e6a9cbf8d7e74788e0c6fff42b5e0, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: armoured_warrior_fuse_Glove_Opacity
+    second: {fileID: 2800000, guid: 26e061c8687d51a4bbd7cfee9bdbf263, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: armoured_warrior_fuse_Glove_Specular
+    second: {fileID: 2800000, guid: 91175bbf41ef1f548bdb9fdff21c75a1, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: armoured_warrior_fuse_Hair_Diffuse
+    second: {fileID: 2800000, guid: c0b3cde9d08d5614cba7c952f474eb53, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: armoured_warrior_fuse_Hair_Gloss
+    second: {fileID: 2800000, guid: fe4c22e7bccdaa04599fcf35f1e3c01c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: armoured_warrior_fuse_Hair_Normal
+    second: {fileID: 2800000, guid: ea8fcec2584a6b441b0da5d370be7621, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: armoured_warrior_fuse_Hair_Specular
+    second: {fileID: 2800000, guid: c5f8d2504dbb24547b0a5f6334e07836, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: armoured_warrior_fuse_Moustache_Diffuse
+    second: {fileID: 2800000, guid: 250a79933e2282646a91f52740d701fd, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: armoured_warrior_fuse_Moustache_Gloss
+    second: {fileID: 2800000, guid: df3931f62b317cb438cb1a0a957b1aea, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: armoured_warrior_fuse_Moustache_Normal
+    second: {fileID: 2800000, guid: 4c0dcf7cacac69641a328e1853f89a3e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: armoured_warrior_fuse_Moustache_Opacity
+    second: {fileID: 2800000, guid: 76599e8a82f0dbf4ca876c81bab5892c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: armoured_warrior_fuse_Moustache_Specular
+    second: {fileID: 2800000, guid: 828a8649ad1d09b4f81234d43a3edb84, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: armoured_warrior_fuse_Shoes_Diffuse
+    second: {fileID: 2800000, guid: 8e5a87991a02d04469e3a820d9e0f00b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: armoured_warrior_fuse_Shoes_Gloss
+    second: {fileID: 2800000, guid: a8dabaf36272da94681864ab0b204abb, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: armoured_warrior_fuse_Shoes_Normal
+    second: {fileID: 2800000, guid: b044faea1a0873c4eac15ee8b55c4604, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: armoured_warrior_fuse_Shoes_Specular
+    second: {fileID: 2800000, guid: 0639fcc92da57254b8431b4876326152, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: armoured_warrior_fuse_Top_Diffuse
+    second: {fileID: 2800000, guid: f82161f16bc710041b754136aba1518b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: armoured_warrior_fuse_Top_Gloss
+    second: {fileID: 2800000, guid: b7eef71e86fc6be49910b0848875fadd, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: armoured_warrior_fuse_Top_Specular
+    second: {fileID: 2800000, guid: ca3d4720b57f21c42a0ab86478151284, type: 3}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    rigImportErrors: "Invalid Avatar Rig Configuration. Missing or invalid transform:\n\tRequired
+      human bone 'Hips' not found\n"
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    strictVertexDataChecks: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton:
+    - name: kingsit(Clone)
+      parentName: 
+      position: {x: -0.20186438, y: 1.155254, z: -1.4513103}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: default1
+      parentName: kingsit(Clone)
+      position: {x: 0.20186438, y: -1.155254, z: 1.4513103}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Eyes
+      parentName: kingsit(Clone)
+      position: {x: 0.20186438, y: -1.155254, z: 1.4513103}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Body
+      parentName: kingsit(Clone)
+      position: {x: 0.20186438, y: -1.155254, z: 1.4513103}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Shoes
+      parentName: kingsit(Clone)
+      position: {x: 0.20186438, y: -1.155254, z: 1.4513103}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Gloves
+      parentName: kingsit(Clone)
+      position: {x: 0.20186438, y: -1.155254, z: 1.4513103}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Hair
+      parentName: kingsit(Clone)
+      position: {x: 0.20186438, y: -1.155254, z: 1.4513103}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Tops
+      parentName: kingsit(Clone)
+      position: {x: 0.20186438, y: -1.155254, z: 1.4513103}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Moustaches
+      parentName: kingsit(Clone)
+      position: {x: 0.20186438, y: -1.155254, z: 1.4513103}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Beards
+      parentName: kingsit(Clone)
+      position: {x: 0.20186438, y: -1.155254, z: 1.4513103}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Bottoms
+      parentName: kingsit(Clone)
+      position: {x: 0.20186438, y: -1.155254, z: 1.4513103}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Cone_Cone.003
+      parentName: kingsit(Clone)
+      position: {x: 0.19363825, y: 0.6931981, z: -0.2643527}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 3
+  humanoidOversampling: 1
+  avatarSetup: 1
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  importBlendShapeDeformPercent: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - CinemachineTarget
+  - Environment
+  - HitBox
+  - NPC
+  - Coin
+  - Shield
+  - Magnet
+  - Invisible
+  - Fist
+  - SavePlayer
+  - Traps
+  - DestroyPlatform
+  - DisablePlatform
+  - Cart
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - Player
+  - Traps
+  - ShieldOn
+  - Coin
+  - InvisibleOn
+  - Powers
+  - Walls
+  - Environment
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - PostProcessing
+  - TrapsFX
+  - Platform
+  - NPC
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
